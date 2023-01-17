@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "app"
+    },
+    {
+      "path": "toolkit"
+    },
+    {
+      "path": "app-upload"
+    },
+    {
+      "path": "app-dir"
+    },
+    {
+      "path": "app-slug"
+    },
+    {
+      "path": "app-download"
+    },
+    {
+      "path": "app-json"
+    },
+    {
+      "path": "api-test"
+    }
+  ]
+}
